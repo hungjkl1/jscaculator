@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.screen {
+  background-color: whitesmoke;
+  height: 75px;
+  width: 90%;
+  margin: auto;
+}
+.calbody {
+  background-color: white;
+  width: 350px;
+  height: 450px;
+  margin-top: 10px;
+  border-radius: 15px;
+  border: 1px solid rgba(35, 35, 35, 0.2);
+  box-shadow: 5px 10px 10px rgba(35, 35, 35, 0.2);
+}
+.txt-white {
+  color: white;
+}
+.btn:hover {
+  background-color: grey;
+  color: white;
+  border: none;
+}
+.btn:active {
+  margin: auto;
+  width: 94%;
+  border: none;
+}
